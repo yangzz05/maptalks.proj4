@@ -1,0 +1,1 @@
+export {default as EPSG32648} from './EPSG32648';
